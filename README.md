@@ -2,17 +2,18 @@
 - 👀 <h3 align="center">A passionate software engineer and Data Scientist</h3>
 - 📫 How to reach me dakwa.cephas@gmail.com
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kofi2552&label=Profile%20views&color=0e75b6&style=flat" alt="kofi2552" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kofi2552" alt="kofi2552" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=kofi2552)](https://github.com/kofi2552/github-profile-trophy)
 
-- 🔭 I’m currently working on [tudlin.com](https://www.tudlin.com/) and [Koyarr.com](https://koyarr-client.onrender.com/)
+
+
+- 🔭 I’m currently working on [tudlin.com](https://www.tudlin.com/)
 
 - 🌱 I’m currently learning **TENSORFLOW**
 
 - 👯 I’m looking to collaborate on [tudlin.com](https://www.tudlin.com/)
 
-- 🤝 I’m looking for help with [Koyarr.com](https://koyarr-client.onrender.com/)
+
 
 - 💬 Ask me about **AI & ML**
 
