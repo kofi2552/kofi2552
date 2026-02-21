@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cephas</h1>
-- 👀 <h3 align="center">A passionate software engineer and Creative Director</h3>
+- 👀 <h3 align="center">A passionate software engineer and Data Scientist</h3>
 - 📫 How to reach me kofiloyke2552@gmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kofi2552&label=Profile%20views&color=0e75b6&style=flat" alt="kofi2552" /> </p>
